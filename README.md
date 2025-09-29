@@ -1,19 +1,29 @@
-Description of the files given to students
+# TDT4173 - Modern machine learning in practice
 
-README.md - this file
+## Description of the files given to students
 
-data/kernel/receivals.csv - training data
-data/kernel/purchase_orders.csv - imporant data that contains whats ordered  
+`README.md` - this file
 
-data/extended/materials.csv - optional data related to the different materials
-data/extended/transportaton.csv - optional data related to transporation
+### Mandatory
 
-data/prediction_mapping.csv - mapping used to generate submissions
-data/sample_submission.csv - demo submission file for Kaggle, predicting all zeros
+`data/kernel/receivals.csv` - training data
+`data/kernel/purchase_orders.csv` - imporant data that contains whats ordered  
 
-Dataset definitions and explanation.docx - a documents that gives more details about the dataset and column names  
-Machine learning task for TDT4173.docx - brief introduction to the task
-kaggle_metric.ipynb - the score function we use in the Kaggle competition
+### Optional
+
+`data/extended/materials.csv` - optional data related to the different materials
+`data/extended/transportaton.csv` - optional data related to transporation
+
+### Submission
+
+`data/prediction_mapping.csv` - mapping used to generate submissions
+`data/sample_submission.csv` - demo submission file for Kaggle, predicting all zeros
+
+### Additional information
+
+`Dataset definitions and explanation.pdf` - a documents that gives more details about the dataset and column names  
+`Machine learning task for TDT4173.pdf` - brief introduction to the task
+`kaggle_metric.py` - (initially kaggle_metric.ipynb) - the score function we use in the Kaggle competition
 
 ## ML Model Features
 
