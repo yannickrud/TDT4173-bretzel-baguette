@@ -208,3 +208,5 @@ __marimo__/
 
 /individual assignment*
 data/
+.idea/
+.vscode/
